@@ -6,4 +6,4 @@
 
 2. Варианты и решения: https://efiminem.github.io/supershad/
 
-3. Колмогоровская олимпиада по теорверу: https://mega.nz/folder/eRsFjAxJ#YI1dJEz-Z4MnmOslJ-2T0A
+3. Колмогоровская олимпиада по теорверу: 
