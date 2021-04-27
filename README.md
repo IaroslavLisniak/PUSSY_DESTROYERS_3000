@@ -4,7 +4,7 @@
 
 1. Все материалы для ШАДа: https://mega.nz/folder/eRsFjAxJ#YI1dJEz-Z4MnmOslJ-2T0A
 
-2. Варианты и решения: https://efiminem.github.io/supershad/
+2. Варианты и решения ШАДа прошлых лет: https://efiminem.github.io/supershad/
 
 3. последние варианты шада: https://yandexdataschool.ru/stepbystep
 
