@@ -18,3 +18,5 @@
 Лекции 1-9, семинары 1-11. 
 http://wiki.cs.hse.ru/Математический_анализ_2020/2021_(пилотный_поток)
 
+### Конспект по проге.
+https://docs.google.com/document/d/10vMla4tCVXGcSLGhsYl59ve6RnBpU9gtppCY01qhy1o/edit?usp=sharing
