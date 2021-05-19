@@ -22,3 +22,6 @@ http://wiki.cs.hse.ru/Математический_анализ_2020/2021_(пи�
 https://docs.google.com/document/d/10vMla4tCVXGcSLGhsYl59ve6RnBpU9gtppCY01qhy1o/edit?usp=sharing
 
 Полезная статья с сложностями классических алгоритмов и структур данных: https://habr.com/ru/post/188010/
+
+### КОК по МО2:
+https://docs.google.com/document/d/1udop9QLimLKjZzOAEN9OQMoMnTS3fDKeURvMm860Rw0/edit
