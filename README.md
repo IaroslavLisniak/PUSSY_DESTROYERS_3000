@@ -25,3 +25,6 @@ https://docs.google.com/document/d/10vMla4tCVXGcSLGhsYl59ve6RnBpU9gtppCY01qhy1o/
 
 ### КОК по МО2:
 https://docs.google.com/document/d/1udop9QLimLKjZzOAEN9OQMoMnTS3fDKeURvMm860Rw0/edit
+
+### Колмогоровская олимпудка по теорверу:
+http://new.math.msu.su/department/probab/os-nf/olimpia-nf.htm
