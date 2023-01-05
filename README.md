@@ -16,9 +16,9 @@ No aim.
 - IUM::Calculus 1: lecture1, 2 + list1 (https://ium.mccme.ru/postscript/f22/analiz1-list1-22f.pdf)
 
 
+### Week 1. 07.01-08.01.2023
 
-
-
+- IUM::Calculus 1: lecture3 + list1 (https://ium.mccme.ru/postscript/f22/analiz1-list1-22f.pdf)
 
 
 
